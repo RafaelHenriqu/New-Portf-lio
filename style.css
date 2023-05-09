@@ -52,12 +52,11 @@ img {
   color: white;
 }
 
-svg {
+.Icons {
   width: 30px;
   transition: 500ms;
 }
-
-svg:hover {
+.Icons:hover {
   width: 50px;
 }
 

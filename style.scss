@@ -50,13 +50,13 @@ p{
     color: white;
 }
 }
-svg{
+.Icons{
     width: 30px;
     transition: 500ms;
+&:hover{
+    width: 50px;
 }
-svg:hover{
-  width: 50px;
-} 
+}
 
 
 @media screen and (max-width:450px) {
@@ -69,4 +69,5 @@ svg:hover{
 width: 20px;
 margin-left: auto;
 padding: 10px;
+
 }
