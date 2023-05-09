@@ -54,6 +54,7 @@ img {
 
 svg {
   width: 30px;
+  transition: 500ms;
 }
 
 svg:hover {
