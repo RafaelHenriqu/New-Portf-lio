@@ -30,12 +30,16 @@ position: absolute;
 top: -50%;
 left: 50%;
 transform: translate(-50%,-50%);
+transition: 300ms;
 &:hover{
-    width: 200px;
-    height: 200px; 
+  
+ width: 160px;
+ height: 160px; 
 }
 }
  
+
+
 #Sobre-Mim{
     display: inline-block;
 position: absolute;
