@@ -64,4 +64,10 @@ svg:hover {
   #Perfil {
     top: -30%;
   }
+}
+#Dark {
+  display: block;
+  width: 20px;
+  margin-left: auto;
+  padding: 10px;
 }/*# sourceMappingURL=style.css.map */
